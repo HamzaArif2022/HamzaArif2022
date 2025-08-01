@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/hamzaarif___03" target="blank"><img src="https://img.shields.io/twitter/follow/hamzaarif___03?logo=twitter&style=for-the-badge" alt="hamzaarif___03" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce web site**
+- 🔭 I’m currently working on **Saas platform**
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **React Laravel PHP Javascript Node js All Technologies of web developement**
+- 💬 Ask me about **React Laravel PHP Javascript Node js java typescript and devOps All Technologies of  developement**
 
 - 📫 How to reach me **arifhamza116@gmail.com**
 
