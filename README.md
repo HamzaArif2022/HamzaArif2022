@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamzaarif___03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzaarif___03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamza-arif2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-arif2003" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamza-arif-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-arif2003" height="30" width="40" /></a>
 <a href="https://fb.com/hâmžâ běň ăříf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hâmžâ běň ăříf" height="30" width="40" /></a>
 <a href="https://instagram.com/__yeeessuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__yeeessuh" height="30" width="40" /></a>
 </p>
